@@ -1,0 +1,8 @@
+# Ignore Eclipse workspace settings
+.metadata/
+*.log
+ 
+# Eclipse project-specific files
+.settings/
+*.classpath
+*.project
